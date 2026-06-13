@@ -1,5 +1,7 @@
 # HF-50P-127
 Header Female 50pin Pitch 1.27mm
 
-<img width="319" height="210" alt="image" src="https://github.com/user-attachments/assets/70b2d1fd-7222-406e-815d-25ceec5b8727" />
+<img width="546" height="359" alt="image" src="https://github.com/user-attachments/assets/9cacb342-4f85-4799-9888-7a5adee1cf2f" />
+
+
 
